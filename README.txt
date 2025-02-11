@@ -44,3 +44,16 @@ conda install streamlit pandas numpy matplotlib
 Launch the app:
 
 streamlit run main.py
+
+  ```  Upload your CSV file through the sidebar
+
+    Select numerical columns for analysis
+
+    Navigate through tabs:
+
+        Data Overview: Initial dataset inspection
+
+        Visualizations: Interactive plotting interface
+
+        Statistics: Detailed numerical analysis ```
+
